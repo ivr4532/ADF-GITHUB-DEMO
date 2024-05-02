@@ -1,0 +1,9 @@
+{
+	"name": "YELLA-ADF-DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54a0235d-c29a-4e40-9389-6f64fdad7159",
+		"tenantId": "ca13c763-d3f0-4dfc-8989-b571d8afff7c"
+	}
+}
