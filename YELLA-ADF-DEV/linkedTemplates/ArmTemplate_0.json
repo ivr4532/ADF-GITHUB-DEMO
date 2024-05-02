@@ -131,7 +131,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data from input container to output",
+						"name": "Copy data from input to output container",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
